@@ -1,0 +1,21 @@
+
+
+img.pic {
+	width: 400px;
+	height: 400px;
+}
+
+
+#right{
+	float:right;
+	padding-right: 300px;
+	padding-top: 100px;
+}
+
+/* put a border on one of the sides to divide*/
+ 
+#left{
+	float:left;
+	padding-left: 250px;
+	padding-top: 100px;
+}

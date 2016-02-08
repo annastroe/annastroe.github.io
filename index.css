@@ -1,0 +1,35 @@
+
+
+#title {
+	position: relative;
+	text-align: center;
+	padding-top: 30px;
+
+
+}
+
+h1 {
+	font-family: Geomanist;
+	position: absolute; 
+    top: 120px; 
+    left: 0; 
+   	width: 100%; 
+   	color: white;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+img.attributes {
+	border-radius: 50%;
+	width: 250px;
+	height: 250px;
+}
+
+p {
+	text-align: center;
+	font-family: Geomanist;
+}
+

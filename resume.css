@@ -1,0 +1,27 @@
+/* STYLESHEET */
+
+
+
+body{
+
+	font-family: 'Raleway', sans-serif;
+	border:1px solid black;
+	padding-left: 50px;
+	padding-top: 30px;
+}
+
+h1 {
+	
+	padding-top: 30px;
+	text-align: center;
+	
+}
+
+p {
+	padding-left: 30px;
+
+}
+
+.categories {
+	font-style: italic;
+}

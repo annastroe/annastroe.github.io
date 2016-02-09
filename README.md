@@ -5,4 +5,4 @@ Identify anyone with whom you have collaborated or discussed the assignment:
 	I discussed this assignment with Eric Magalhaes and Ryan Osgood, although all work completed is my own. 
 
 Say approximately how many hours you have spent completing the assignment:
-	I would approximate that I spent about 5 hours all in all on completing this assignment. 
+	I would approximate that I spent about 5-6 hours all in all on completing this assignment. 

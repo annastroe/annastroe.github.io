@@ -1,10 +1,9 @@
 
-
 img {
 	width: 400px;
 	height: 400px;
 	text-align: center;
-	padding-left: 80px; 
+	padding-left: 140px; 
 	padding-top: 150px;
 	float: left;
 	
@@ -13,7 +12,6 @@ img {
 
 p {
 	text-align: center;
-	/*position: relative; */
 	font-family: Geomanist; 
 	padding-right: 160px;
 	padding-top: 250px;

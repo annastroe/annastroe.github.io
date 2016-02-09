@@ -1,21 +1,22 @@
 
 
-img.pic {
+img {
 	width: 400px;
 	height: 400px;
+	text-align: center;
+	padding-left: 80px; 
+	padding-top: 150px;
+	float: left;
+	
 }
 
 
-#right{
-	float:right;
-	padding-right: 300px;
-	padding-top: 100px;
-}
+p {
+	text-align: center;
+	/*position: relative; */
+	font-family: Geomanist; 
+	padding-right: 160px;
+	padding-top: 250px;
 
-/* put a border on one of the sides to divide*/
- 
-#left{
-	float:left;
-	padding-left: 250px;
-	padding-top: 100px;
+
 }

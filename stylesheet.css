@@ -1,0 +1,132 @@
+
+
+h1{
+	padding-top: 25px;
+	/*padding-left: 20px;*/
+	text-align: center;
+	font-size: 40px;
+	color: white;
+}
+
+
+
+span{
+	font-family: Andale Mono;
+	color: white;
+
+}
+
+#links{
+	/*padding-left: 40px;*/
+	font-size: 13px;
+	text-align: center;
+
+}
+
+
+a{
+	text-decoration: none;
+	font-family: Andale Mono;
+	padding-left: 30px;
+	color: black;
+}
+
+a:hover{
+	color: #878CB4;
+	color: #BC204B;
+	font-weight: bold;
+	/*font-size: 14px;*/
+}
+
+#hand{
+	/*padding-top: 70px;
+	padding-left: 130px;*/
+	padding-top: 7%;
+	padding-left: 12%;
+	display: inline-block;
+	position: absolute;
+
+	-webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;
+
+
+
+}
+
+.hiddenhand{
+	display: none;
+}
+
+.hiddeneye{
+	display: none;
+}
+
+.hiddentable{
+	display: none;
+}
+
+.hiddenprint{
+	display: none;
+}
+
+.hiddensketch1{
+	display: none;
+}
+
+#hand img:hover{
+	opacity: 0.7;
+}
+
+#eye{
+	position: absolute;
+	display: inline-block;
+	/*padding-top: 340px;
+	padding-left: 430px;*/
+	padding-top: 28%;
+	padding-left: 35%;
+}
+
+#eye img:hover{
+	opacity: .7;
+}
+
+#table{
+	position: absolute;
+	display: inline-block;
+	/*padding-left: 470px;
+	padding-top: 40px;*/
+	padding-top: 3.5%;
+	padding-left: 39%;
+}
+
+#print{
+	position: absolute;
+	display: inline-block;
+	/*padding-left: 760px;
+	padding-top: 250px;*/
+	padding-left: 63%;
+	padding-top: 20%;
+}
+
+#sketch1{
+	position: absolute;
+	display: inline-block;
+	/*padding-left: 820px;
+	padding-top: 60px;*/
+	padding-top: 5%;
+	padding-left: 66%;
+}
+
+#images{
+
+	display: inline-block;
+}
+
+#copyright{
+	text-align: center;
+	color: gray;
+
+}

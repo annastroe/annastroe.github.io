@@ -1,0 +1,42 @@
+h1{
+	padding-top: 25px;
+	/*padding-left: 20px;*/
+	text-align: center;
+	font-size: 40px;
+	color: white;
+}
+
+
+
+span{
+	font-family: Andale Mono;
+	color: white;
+
+}
+
+#links{
+	/*padding-left: 40px;*/
+	font-size: 13px;
+	text-align: center;
+
+}
+
+
+a{
+	text-decoration: none;
+	font-family: Andale Mono;
+	padding-left: 30px;
+	color: black;
+}
+
+a:hover{
+	color: #878CB4;
+	color: #BC204B;
+	font-weight: bold;
+	/*font-size: 14px;*/
+}
+
+#pics{
+	text-align: center;
+	padding-top: 2%;
+}

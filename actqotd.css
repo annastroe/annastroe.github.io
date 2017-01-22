@@ -1,0 +1,75 @@
+h1{
+	padding-top: 25px;
+	/*padding-left: 20px;*/
+	text-align: center;
+	font-size: 40px;
+	color: white;
+}
+
+
+
+span{
+	font-family: Andale Mono;
+	color: white;
+
+}
+
+#links{
+	/*padding-left: 40px;*/
+	font-size: 13px;
+	text-align: center;
+
+}
+
+
+a{
+	text-decoration: none;
+	font-family: Andale Mono;
+	padding-left: 30px;
+	color: black;
+}
+
+a:hover{
+	color: #878CB4;
+	color: #BC204B;
+	font-weight: bold;
+}
+
+#qotdtitle{
+	padding-top: 5%;
+	padding-left: 13%;
+	font-family: Andale Mono;
+	color: #00FF00;
+}
+
+#text{
+	padding-top: 5%;
+	padding-left: 13%;
+	padding-right: 13%;
+	font-family: Calibri;
+	font-size: 14px;
+	font-family: Andale Mono;
+}
+
+#stepone p{
+	padding-left: 8%;
+}
+
+#steptwo p{
+	padding-left: 8%;
+}
+
+#designs{
+	display: inline-block;
+	position: relative;
+	padding-left: 6%;
+}
+
+#design5{
+	text-align: center;
+}
+
+#stepthree p{
+	padding-left: 8%;
+}
+

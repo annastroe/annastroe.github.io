@@ -1,0 +1,113 @@
+h1{
+	padding-top: 25px;
+	/*padding-left: 20px;*/
+	text-align: center;
+	font-size: 40px;
+	color: white;
+}
+
+
+
+span{
+	font-family: Andale Mono;
+	color: white;
+
+}
+
+#links{
+	/*padding-left: 40px;*/
+	font-size: 13px;
+	text-align: center;
+
+}
+
+
+a{
+	text-decoration: none;
+	font-family: Andale Mono;
+	padding-left: 30px;
+	color: black;
+}
+
+a:hover{
+	color: #878CB4;
+	color: #BC204B;
+	font-weight: bold;
+	/*font-size: 14px;*/
+}
+
+#actqotd{
+	display: inline-block;
+	position: absolute;
+	padding-top: 7%;
+	padding-left: 13%;
+}
+
+#actqotd img:hover{
+	opacity: .7;
+}
+
+#qotdtitle a{
+	display: inline-block;
+	position: absolute;
+	padding-top: 10%;
+	padding-left: 35%;
+	font-family: Andale Mono;
+	font-size: 20px;
+	color: #00FF00;
+}
+
+#qotdtitle a:hover{
+	color: black;
+}
+
+#qotdtext p{
+	display: inline-block;
+	position: absolute;
+	padding-top: 13%;
+	padding-left: 35%;
+	padding-right: 10%;
+	font-family: Calibri;
+	font-size: 16px;
+}
+
+#view{
+	position: relative;
+	padding-top: 25%;
+	padding-left: 35%;
+	font-size: 14px;
+}
+
+#snacks{
+	display: inline-block;
+	position: absolute;
+	padding-top: 11%;
+	padding-left: 13%;
+}
+
+#studysnacks{
+	display: inline-block;
+	position: absolute;
+	padding-top: 14%;
+	padding-left: 35%;
+	font-family: Andale Mono;
+	font-size: 20px;
+	color: #00FF00;
+}
+
+#snackstext{
+	
+	position: absolute;
+	padding-top: 17%;
+	padding-left: 35%;
+	padding-right: 10%;
+	font-family: Calibri;
+	font-size: 16px;
+}
+
+#view2{
+	position: relative;
+	padding-top: 28%;
+	padding-left: 35%;
+	font-size: 14px;
+}

@@ -1,0 +1,118 @@
+h1{
+	padding-top: 25px;
+	/*padding-left: 20px;*/
+	text-align: center;
+	font-size: 40px;
+}
+
+
+span{
+	font-family: Andale Mono;
+	color: white;
+
+}
+
+#links{
+	/*padding-left: 40px;*/
+	font-size: 13px;
+	text-align: center;
+
+}
+
+
+a{
+	text-decoration: none;
+	font-family: Andale Mono;
+	padding-left: 30px;
+	color: black;
+}
+
+a:hover{
+	color: #878CB4;
+	color: #BC204B;
+}
+
+#me{
+	/*padding-top: 60px;
+	padding-left: 70px;*/
+	display: inline-block;
+	padding-top: 5%;
+	padding-left: 8%;
+	position: absolute;
+	
+}
+
+#about{
+	color: #BC204B;
+	position: relative;
+}
+
+#who p{
+	position: absolute;
+	padding-top: 6%;
+	padding-left: 46%;
+	font-size: 30px;
+	color: #00FF00;
+	font-family: Andale Mono;
+
+}
+
+#whotext p{
+	position: absolute;
+	padding-top: 13%;
+	padding-left: 53%;
+	padding-right: 8%;
+	font-family: Andale Mono;
+	font-size: 13px;
+}
+
+#hk{
+	display: inline-block;
+	position: absolute;
+	padding-top: 40%;
+	padding-left: 20%;
+}
+
+#contact p{
+	position: absolute;
+	padding-left: 42%;
+	font-size: 30px;
+	color: #00FF00;
+	font-family: Andale Mono;
+	padding-top: 38%;
+}
+
+#contacttext p{
+	position: absolute;
+	padding-top: 45%;
+	padding-left: 48%;
+	padding-right: 8%;
+	font-family: Andale Mono;
+	font-size: 13px;
+}
+
+#redshoes{
+	display: inline-block;
+	position: absolute;
+	padding-top: 67%;
+	padding-left: 13%;
+	padding-bottom: 5%;
+}
+
+#work p{
+	position: absolute;
+	padding-left: 51%;
+	font-size: 30px;
+	color: #00FF00;
+	font-family: Andale Mono;
+	padding-top: 60%;
+}
+
+#worktext p{
+	position: absolute;
+	padding-top: 68%;
+	padding-left: 53%;
+	padding-right: 8%;
+	font-family: Andale Mono;
+	font-size: 13px;
+}
